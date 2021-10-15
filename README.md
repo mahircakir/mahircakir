@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mahircakir
 - 👀 I’m interested in progmaing and music.
 - 🌱 I’m currently learning python and c#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> cakir.mahir06@gmail.com
 
 <!---
