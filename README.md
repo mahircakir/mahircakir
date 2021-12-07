@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahircakir
-- 👀 I’m interested in progmaing and music.
+- 👀 I’m interested in programing and music.
 - 🌱 I’m currently learning python and c#
 - 📫 How to reach me --> cakir.mahir06@gmail.com
 
